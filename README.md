@@ -214,6 +214,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 # Ogun
 * [Hebron Startup Labs](http://covenantuniversity.edu.ng/)
   KM. 10 Idiroko Road, Canaan Land, Ota, Ogun State.
+  
+# Ondo
+* [Curators Hub](http://curators.ng/)
+   Ilesa, Owo Avenue, Akure.
 
 # Oyo
 * [WennovationHub](http://wennovationhub.org)
